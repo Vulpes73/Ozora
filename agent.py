@@ -60,9 +60,10 @@ Zoek naar de meest recente en relevante informatie over de volgende onderwerpen:
 
 Presenteer de resultaten als een gestructureerde dagelijkse briefing met:
 - Een korte samenvatting bovenaan (maximaal 3 bullets met de belangrijkste punten van vandaag)
-- Per categorie: concrete bevindingen met bron en datum
+- Per categorie: concrete bevindingen met bron, datum en VOLLEDIGE URL (bijv. https://www.rechtspraak.nl/...)
 - Aan het einde: actiepunten of aandachtspunten voor vandaag
 
+BELANGRIJK: Vermeld bij elke bevinding altijd de volledige URL van de bron zodat deze klikbaar kan worden gemaakt.
 Als er weinig actueel nieuws is voor een categorie, vermeld dat dan kort en ga door naar de volgende.
 """
 
